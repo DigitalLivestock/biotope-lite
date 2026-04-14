@@ -5,19 +5,6 @@
 [![License](https://img.shields.io/github/license/DigitalLivestock/biotope-lite)](https://github.com/DigitalLivestock/biotope-lite/blob/master/LICENSE)
 [![Version](https://img.shields.io/github/v/release/DigitalLivestock/biotope-lite)](https://github.com/DigitalLivestock/biotope-lite/releases)
 
----
-
-## Table of Contents
-
-* [About](#-about)
-* [Features](#-features)
-* [Demo](#-demo)
-* [Installation](#-installation)
-* [Usage](#-usage)
-* [Configuration](#-configuration)
-* [Project Structure](#-project-structure)
-* [Deployment](#-deployment)
-* [License](#-license)
 
 ---
 
