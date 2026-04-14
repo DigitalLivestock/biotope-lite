@@ -2,10 +2,8 @@
 
 > Short, clear tagline describing your project.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml)]()
-[![License](https://img.shields.io/github/license/username/repo)]()
-[![Version](https://img.shields.io/github/v/release/username/repo)]()
-[![Contributors](https://img.shields.io/github/contributors/username/repo)]()
+[![License](https://img.shields.io/github/license/DigitalLivestock/biotope-lite)](https://github.com/DigitalLivestock/biotope-lite/blob/master/LICENSE)
+[![Version](https://img.shields.io/github/v/release/DigitalLivestock/biotope-lite)](https://github.com/DigitalLivestock/biotope-lite/releases)
 
 ---
 
@@ -35,11 +33,11 @@ Describe your project:
 
 ## Features
 
-* ⚡ Fast and lightweight
-* 🔌 Easy integration
-* 🧩 Modular architecture
-* 📦 Cross-platform support
-* 🛠 Extensible and customizable
+* Fast and lightweight
+* Easy integration
+* Modular architecture
+* Cross-platform support
+* Extensible and customizable
 
 ---
 
