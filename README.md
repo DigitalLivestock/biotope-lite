@@ -39,7 +39,7 @@ Describe your project:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 
