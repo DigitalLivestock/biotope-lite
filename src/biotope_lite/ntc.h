@@ -1,9 +1,8 @@
 /*****************************************************************************
+ * File: ntc.h
  * Author: DigitalLivesock
  * Date: 2026-02-07
- * Description:
- ****************************************************************************/
-
+ * Description: NTC temperature sensor related definintions and methods.
 /*****************************************************************************
  * Copyright (C) 2026 DigitalLivestock
  *

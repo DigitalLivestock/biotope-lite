@@ -1,9 +1,9 @@
 /*****************************************************************************
+ * File: bme280.cpp
  * Author: DigitalLivesock
  * Date: 2026-02-07
- * Description:
- ****************************************************************************/
-
+ * Description: Temperature, Humidity and Pressure sensor BME280 related 
+ *              definitions and methods.
 /*****************************************************************************
  * Copyright (C) 2026 DigitalLivestock
  *
@@ -25,7 +25,7 @@
 
 void bme_init()
 {
-  /*Get calibration values:*/
+  /*Get calibration values: */
   bme_get_calibration(&t_calibration[0], &p_calibration[0], &h_calibration[0]);
 }
 

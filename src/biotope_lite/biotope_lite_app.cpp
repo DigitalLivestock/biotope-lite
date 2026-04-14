@@ -1,9 +1,8 @@
 /*****************************************************************************
+ * File: biotope_lite_app.cpp
  * Author: DigitalLivesock
  * Date: 2026-02-07
- * Description:
- ****************************************************************************/
-
+ * Description: Biotope Lite MAIN
 /*****************************************************************************
  * Copyright (C) 2026 DigitalLivestock
  *
@@ -21,7 +20,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *****************************************************************************/
 
-#include "biotope_app.h"
+#include "biotope_lite_app.h"
 
 state_t *curr_state;
 

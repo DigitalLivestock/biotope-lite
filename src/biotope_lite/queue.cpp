@@ -1,9 +1,8 @@
 /*****************************************************************************
+ * File: queue.cpp
  * Author: DigitalLivesock
  * Date: 2026-02-07
- * Description:
- ****************************************************************************/
-
+ * Description: Queue data structure related definitions and methods.
 /*****************************************************************************
  * Copyright (C) 2026 DigitalLivestock
  *
