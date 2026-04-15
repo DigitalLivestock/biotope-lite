@@ -34,16 +34,16 @@ The BIOTOPE(LITE)™ is a high precision monitoring unit for measuring indoor an
 ---
 
 ## Usage
-Choose if you want to use 4 x AA batteries or a compatible wall power adapter capable of supplying at least 200mA at 6V via DC-Jack (2.1 mm):
+Choose if you want to use 4 x AA batteries or a compatible wall power adapter capable of supplying at least 0.2A at 6V via DC-Jack (2.1 mm):
     • Battery powered: carefully open BIOTOPE(LITE)™ by unscrewing the back panel and inserting 4 x AA batteries into the battery holder.
     • Wall power adapter: connect adapter DC-Jack male contact to BIOTOPE(LITE)™ female.
 Power-on device by moving switch above DC-Jack female connector. The LCD screen shall light-up showing initial start-up screen. 
 
-The device displays measurement data and configuration options on the LCD screen in the form of frames, among which a user can navigate using buttons. As can be seen in Figure 1, a frame is made up of two rows and there are five buttons available. Buttons consist of UP, DOWN, LEFT, RIGHT, and ENTER—allowing for full access among network of selectable frames, as can be observed in Figure 2. Frames can be seen connected to one another via arrows, here representing button actions.
+The device displays measurement data and configuration options on the LCD screen in the form of frames, among which a user can navigate using buttons. As can be seen in the next figure below, a frame is made up of two rows and there are five buttons available. Buttons consist of UP, DOWN, LEFT, RIGHT, and ENTER—allowing for full access among network of selectable frames, as can be observed in the second figure. Frames can be seen connected to one another via arrows, here representing button actions.
 
 <img width="832" height="204" alt="image" src="https://github.com/user-attachments/assets/b6328d5e-4d43-4e8e-ab90-4c9be72bbafa" />
 
-In the following, each frame and their functions are explained more in detail. The identification numbers of each Frame are found in the green boxes inserted at top-right of each frame in Figure 2.
+In the following, each frame and their functions are explained more in detail. The identification numbers of each Frame are found in the green boxes inserted at top-right of each frame in the following figure.
 * Frame 0.0: Initial – Device name and software version 
 * Frame 1.0: Current temperature indoors and outdoors (°C)
 * Frame 1.1: Maximum and minimum temperature indoors (°C)
