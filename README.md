@@ -35,8 +35,8 @@ The BIOTOPE(LITE)™ is a high precision monitoring unit for measuring indoor an
 
 ## Usage
 Choose if you want to use 4 x AA batteries or a compatible wall power adapter capable of supplying at least 0.2A at 6V via DC-Jack (2.1 mm):
-    • Battery powered: carefully open BIOTOPE(LITE)™ by unscrewing the back panel and inserting 4 x AA batteries into the battery holder.
-    • Wall power adapter: connect adapter DC-Jack male contact to BIOTOPE(LITE)™ female.
+* Battery powered: carefully open BIOTOPE(LITE)™ by unscrewing the back panel and inserting 4 x AA batteries into the battery holder.
+* Wall power adapter: connect adapter DC-Jack male contact to BIOTOPE(LITE)™ female.
 Power-on device by moving switch above DC-Jack female connector. The LCD screen shall light-up showing initial start-up screen. 
 
 The device displays measurement data and configuration options on the LCD screen in the form of frames, among which a user can navigate using buttons. As can be seen in the next figure below, a frame is made up of two rows and there are five buttons available. Buttons consist of UP, DOWN, LEFT, RIGHT, and ENTER—allowing for full access among network of selectable frames, as can be observed in the second figure. Frames can be seen connected to one another via arrows, here representing button actions.
