@@ -39,7 +39,7 @@
 #define MAX_HUM_ADDR      (float*)4
 #define MIN_HUM_ADDR      (float*)32
 
-#define LCD_IDLE_TIMER_S 5 
-#define SAMPLING_PERIOD_S 5
+#define LCD_IDLE_TIMER_S 5
+#define SAMPLING_PERIOD_S 60
 
 #define NTC_PIN A0
