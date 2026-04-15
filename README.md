@@ -12,6 +12,8 @@
 
 The BIOTOPE(LITE)™ is a high precision monitoring unit for measuring indoor and outdoor temperature, relative humidity and pressure. Measurements are displayed on the built-in LCD screen, presenting current, maximum and minimum for data with smart backlight. Navigation among data is enabled by available buttons. Measured maximum and minimum are automatically restored between power on and -off. Through available settings, it is possible to manually store and reset data.
 
+<img width="2874" height="1828" alt="IMG_20260415_201508294" src="https://github.com/user-attachments/assets/ad92668c-d06f-4ae4-81f3-be026136bac8" />
+
 ---
 
 ## Features
@@ -40,29 +42,6 @@ The BIOTOPE(LITE)™ is a high precision monitoring unit for measuring indoor an
 
 ---
 
-## Installation
-
-### Prerequisites
-
-* Node.js / Python / etc.
-* Package manager
-
-### Install
-
-```bash
-npm install your-package
-```
-
-### Manual
-
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-npm install
-```
-
----
-
 ## Usage
 Choose if you want to use 4 x AA batteries or a compatible wall power adapter capable of supplying at least 200mA at 6V via DC-Jack (2.1 mm):
     • Battery powered: carefully open BIOTOPE(LITE)™ by unscrewing the back panel and inserting 4 x AA batteries into the battery holder.
@@ -86,16 +65,6 @@ In the following, each frame and their functions are explained more in detail. T
 * Frame 3.2: Reset all maximum and minimum data in persistent storage when pressing ENTER-button
 
 <img width="1150" height="664" alt="image" src="https://github.com/user-attachments/assets/38022ff3-c9e3-4d0e-9758-e5b38cd03146" />
-
----
-
-## Configuration
-
-```env
-API_KEY=your_api_key
-PORT=3000
-DEBUG=true
-```
 
 ---
 
