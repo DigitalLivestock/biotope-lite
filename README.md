@@ -2,8 +2,8 @@
 
 > Short, clear tagline describing your project.
 
-[![License](https://img.shields.io/github/license/DigitalLivestock/biotope-lite)](https://github.com/DigitalLivestock/biotope-lite/blob/master/LICENSE)
-[![Version](https://img.shields.io/github/v/release/DigitalLivestock/biotope-lite)](https://github.com/DigitalLivestock/biotope-lite/releases)
+![GitHub License](https://img.shields.io/github/license/DigitalLivestock/biotope-lite)
+![GitHub Release](https://img.shields.io/github/v/release/DigitalLivestock/biotope-lite)
 
 
 ---
