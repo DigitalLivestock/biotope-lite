@@ -1,7 +1,6 @@
 # BIOTOPE(LITE)™
 
 > BIOTOPE(LITE)™: a High Precision Environment Monitoring Unit 
-
 ![GitHub License](https://img.shields.io/github/license/DigitalLivestock/biotope-lite)
 ![GitHub Release](https://img.shields.io/github/v/release/DigitalLivestock/biotope-lite)
 
