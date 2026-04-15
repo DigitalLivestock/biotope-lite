@@ -104,16 +104,32 @@ DEBUG=true
 ```
 biotope-lite/
 ├── src/
-  ├── figures/
-  └── biotope_manual_rev1.0.odt
-├── docs/
-  ├── figures/
-  └── biotope_manual_rev1.0.odt
+│ └── biotope_lite/
+│     ├── biotope_lite.ino
+│     ├── biotope_lite_app.h
+│     ├── biotope_lite_app.cpp
+│     ├── config.h
+│     ├── lcd.h 
+│     ├── lcd.cpp
+│     ├── bme280.h 
+│     ├── bme280.cpp
+│     ├── ntc.h 
+│     ├── ntc.cpp  
+│     ├── MCP23016.h
+│     ├── MCP23016.cpp
+│     ├── twi.h
+│     ├── twi.cpp
+│     ├── queue.h
+│     ├── queue.cpp 
+│     └── biotope_manual_rev1.0.odt
 ├── hardware/
-  └── schematic/
-    ├── biotope_lite_rev1.0.kicad_prl
-    ├── biotope_lite_rev1.0.kicad_pro
-    └── biotope_lite_rev1.0.kicad_sch
+│ └── schematic/
+│   ├── biotope_lite_rev1.0.kicad_prl
+│   ├── biotope_lite_rev1.0.kicad_pro
+│   └── biotope_lite_rev1.0.kicad_sch
+├── docs/
+│ ├── figures/
+│ └── biotope_manual_rev1.0.odt
 ├── biotope_lite_manual_v1.0.pdf
 ├── biotope_lite_schematic_rev1.0.pdf
 ├── LICENSE.md
@@ -133,6 +149,6 @@ npm start
 
 ## License
 
-MIT License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
