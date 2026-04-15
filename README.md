@@ -1,10 +1,14 @@
 # BIOTOPE(LITE)™
 
-> Short, clear tagline describing your project.
+> BIOTOPE(LITE)™: a High Precision Environment Monitoring Unit 
 
 ![GitHub License](https://img.shields.io/github/license/DigitalLivestock/biotope-lite)
 ![GitHub Release](https://img.shields.io/github/v/release/DigitalLivestock/biotope-lite)
 
+---
+
+## A Bit of History
+I started this project a couple of years ago and almost finished it, but life got in the way. Recently, I decided it was time to tie up the loose ends and complete it. While the initial development was paused, the recent work focused on finalizing the essential functionality. Some cleaning of code and its structure was performed, but some of the hacky parts still remain. The main goal of the project was to build an embedded solution based on an AVR microcontroller, designing and implementing as much of the supporting electronics from scratch as possible.
 
 ---
 
@@ -13,8 +17,6 @@
 The BIOTOPE(LITE)™ is a high precision monitoring unit for measuring indoor and outdoor temperature, relative humidity and pressure. Measurements are displayed on the built-in LCD screen, presenting current, maximum and minimum for data with smart backlight. Navigation among data is enabled by available buttons. Measured maximum and minimum are automatically restored between power on and -off. Through available settings, it is possible to manually store and reset data.
 
 <img width="2874" height="1828" alt="IMG_20260415_201508294" src="https://github.com/user-attachments/assets/ad92668c-d06f-4ae4-81f3-be026136bac8" />
-
----
 
 ## Features
 
@@ -28,17 +30,6 @@ The BIOTOPE(LITE)™ is a high precision monitoring unit for measuring indoor an
 * Persistent data store and restore between power states.
 * Ultra low power consumption at 15mA when idle or 23 mA when active.
 * Battery (4 x AA) or wall powered (0.2A/6V via 2.1 mm DC-Jack).
-
----
-
-## Demo
-
-```bash
-# Example output
-> Hello World!
-```
-
-![Screenshot](docs/screenshot.png)
 
 ---
 
@@ -103,15 +94,6 @@ biotope-lite/
 ├── biotope_lite_schematic_rev1.0.pdf
 ├── LICENSE.md
 └── README.md
-```
-
----
-
-## Deployment
-
-```bash
-npm run build
-npm start
 ```
 
 ---
